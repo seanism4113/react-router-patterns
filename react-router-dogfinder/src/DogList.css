@@ -1,0 +1,9 @@
+.DogList {
+	display: flex;
+}
+
+.DogList-container {
+	margin: 15px;
+	border: lightgray 1px solid;
+	padding: 15px;
+}

@@ -1,0 +1,28 @@
+.Color {
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	color: white;
+	justify-content: center;
+	align-items: center;
+}
+
+.Color h2 {
+	background-color: white;
+	width: 100%;
+	height: 70px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-decoration: underline;
+}
+
+.Color-link {
+	color: black;
+	font-weight: bold;
+	font-size: 1.5em;
+}
+
+.Color-link:hover {
+	color: #535bf2;
+}

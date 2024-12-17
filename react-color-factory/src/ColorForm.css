@@ -1,0 +1,43 @@
+.ColorForm {
+	height: 100%;
+	display: flex;
+	place-items: center;
+	justify-content: center;
+	background-image: url("https://wallpapers.com/images/hd/solid-color-rainbow-palette-2qazhxjvr6qfvh02.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+.ColorForm-form {
+	background-color: white;
+	width: 600px;
+	height: 220px;
+	border-radius: 10px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	padding-left: 40px;
+}
+
+.ColorForm div {
+	margin: 10px 0px;
+}
+
+.ColorForm label {
+	font-size: 20px;
+}
+
+.ColorForm input {
+	font-size: 20px;
+}
+.ColorForm-colorName {
+	width: 300px;
+}
+
+.ColorForm button {
+	font-size: 20px;
+}
+
+.ColorForm span {
+	text-align: center;
+}
